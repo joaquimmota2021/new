@@ -1,4 +1,4 @@
-	python 3
+	python 3.0
 	
 numeros
 	issosera um estouro
